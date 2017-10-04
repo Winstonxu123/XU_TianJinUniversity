@@ -1,3 +1,3 @@
-**SLAM & 3D Reconstruction API**
+**Git manual**
 
-*Directory*
+*I will show you how to use git effectively.*
