@@ -34,5 +34,5 @@
 	git push original master
 
 ----------------------------------------------------------------------------------------------------------------------
-Note: all of these operations is not necessary if you use GitHub Desktop.
+Note: all of these operations are not necessary if you use GitHub Desktop.
 It's cool. Why not start up your github journey?
